@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Sunset" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 -3 118.1 55.8" style="enable-background:new 0 0 118.1 54.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{
+        fill:url(#all);
+        stroke:#000000;
+        stroke-miterlimit:10;
+    }
+    <!-- Odległość słońca-->
+	.st1{
+        <!-- transform: rotate(90deg)  -->
+
+    }
+	
+	#Warstwa_1{
+            transform: translate(50%, 15px);	
+        }
+    #Warstwa_2{
+            transform: translate(50%, 50px);
+            
+			
+        }
+  
+</style>
+
+<g id="Warstwa_1">
+	
+		<linearGradient id="all" gradientUnits="userSpaceOnUse" x1="-40.1" y1="154.3713" x2="40.1" y2="154.3713" gradientTransform="matrix(1 0 0 -1 0 171.9213)">
+		<stop id='stop' offset="0" style="stop-color:rgb(78, 137, 247)"/>
+		<stop  offset="0.0" style="stop-color:rgba(255, 255, 255, 0);"/>
+		
+	</linearGradient>
+	
+		<path id="razem" style="fill:url(#all);stroke:#000000;stroke-miterlimit:10;" d="
+		M-0.4,0c-21.9,0-39.7,15.7-39.7,35.1h80.2C40.1,15.8,21.5,0-0.4,0z"/>
+</g>
+<g id="Warstwa_2">
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="100%" x2="0%" y2="0%">
+          <stop offset="0%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+          <stop offset="100%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+        </linearGradient>
+      </defs>
+	<ellipse id="sun" class="st0" fill="url(#grad1)" cx="-40.1" cy="0" rx="8.3" ry="8.3"/>
+</g>
+</svg>
